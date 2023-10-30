@@ -1,0 +1,14 @@
+C:\Users\vs185178\source\repos\DileepJavaScriptTool\DileepJavaScriptTool\bin\Debug\DileepJavaScriptTool.exe.config
+C:\Users\vs185178\source\repos\DileepJavaScriptTool\DileepJavaScriptTool\bin\Debug\DileepJavaScriptTool.exe
+C:\Users\vs185178\source\repos\DileepJavaScriptTool\DileepJavaScriptTool\bin\Debug\DileepJavaScriptTool.pdb
+C:\Users\vs185178\source\repos\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.csproj.AssemblyReference.cache
+C:\Users\vs185178\source\repos\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.csproj.CoreCompileInputs.cache
+C:\Users\vs185178\source\repos\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.exe
+C:\Users\vs185178\source\repos\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.pdb
+C:\DileepJavaScriptTool\DileepJavaScriptTool\DileepJavaScriptTool\bin\Debug\DileepJavaScriptTool.exe.config
+C:\DileepJavaScriptTool\DileepJavaScriptTool\DileepJavaScriptTool\bin\Debug\DileepJavaScriptTool.exe
+C:\DileepJavaScriptTool\DileepJavaScriptTool\DileepJavaScriptTool\bin\Debug\DileepJavaScriptTool.pdb
+C:\DileepJavaScriptTool\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.csproj.AssemblyReference.cache
+C:\DileepJavaScriptTool\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.csproj.CoreCompileInputs.cache
+C:\DileepJavaScriptTool\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.exe
+C:\DileepJavaScriptTool\DileepJavaScriptTool\DileepJavaScriptTool\obj\Debug\DileepJavaScriptTool.pdb
